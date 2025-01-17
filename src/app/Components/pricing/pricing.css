@@ -1,0 +1,19 @@
+.cs1{
+    border: 1px solid #cbd5e1;
+}
+
+:hover.cs1{
+    transform: scale(1.1);
+    transition: 1s;
+    border: 1px solid orange;
+}
+
+/* .cs2{
+    background-color:#374151;
+}
+:hover.cs2{
+    transform: scale(1.1);
+    transition: 1s;
+    color: orange;
+    background-color: orange;
+} */
